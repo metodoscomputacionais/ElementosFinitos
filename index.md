@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+Seja bem vindo a plaforma _online_ de Método dos Elementos Finitos. Esse iniciativa trata-se de um projeto de ensino (SEI Nº 124578) do Grupo de Pesquisas e Estudos em Engenharia (**GPEE**) da Universidade Federal de Catalão (**UFCAT**). Tal projeto é desenvolvido pela seguinte equipe:
 
-You can use the [editor on GitHub](https://github.com/metodoscomputacionais/ElementosFinitos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> Coordenador(es):
+- [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> Colaborador(es):
+- [Prof. Marcos Napoleão Rabelo](http://lattes.cnpq.br/0067281135180613)
+- [Prof. Davidson de Oliveira França Junior](http://lattes.cnpq.br/6573703999085753)
 
-### Markdown
+> Discentes:
+- [Yan de Pádua Castro Metsavaht](http://lattes.cnpq.br/7352411607852258)
+- [Murilo Carneiro Rodrigues]()
+- José Vitor Carvalho
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/metodoscomputacionais/ElementosFinitos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Sumário
+## 1.0 - Introdução

@@ -8,9 +8,11 @@ Seja bem vindo a plaforma _online_ de Método dos Elementos Finitos. Esse inicia
 - [Prof. Davidson de Oliveira França Junior](http://lattes.cnpq.br/6573703999085753)
 
 > Discentes:
-- [Yan de Pádua Castro Metsavaht](http://lattes.cnpq.br/7352411607852258)
-- [Murilo Carneiro Rodrigues]()
-- José Vitor Carvalho
+- 2021
+  - [Yan de Pádua Castro Metsavaht](http://lattes.cnpq.br/7352411607852258)
+  - [Murilo Carneiro Rodrigues]()
+- 2020
+  - José Vitor Carvalho
 
 # Sumário
 ## [1.0 - Introdução](https://metodoscomputacionais.github.io/ElementosFinitos/CAP_10000.html)

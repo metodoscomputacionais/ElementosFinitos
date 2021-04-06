@@ -15,5 +15,5 @@ Seja bem vindo a plaforma _online_ de Método dos Elementos Finitos. Esse inicia
   - José Vitor Carvalho
 
 # Sumário
-## [1.0 - O MÉTODO DOS ELEMENTOS FINITOS](https://metodoscomputacionais.github.io/ElementosFinitos/CAP_10000.html)
-## [2.0 - O MÉTODO DOS ELEMENTOS FINITOS](https://metodoscomputacionais.github.io/ElementosFinitos/CAP_20000.html)
+## [1.0 - INTRODUÇÃO AO MÉTODO](https://metodoscomputacionais.github.io/ElementosFinitos/CAP_10000.html)
+## [2.0 - A FORMULAÇÃO PARA PROBLEMAS UNIDIMENSIONAIS](https://metodoscomputacionais.github.io/ElementosFinitos/CAP_20000.html)
